@@ -10,4 +10,6 @@ read num2
 result=$((num1 * num2))
 
 # Display the result
-echo "The result of multiplying $num1 and $num2 is: $result"
+
+echo "The result of multiplying $num1 and $num2 is: $resulit"
+pwd
