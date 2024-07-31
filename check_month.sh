@@ -53,3 +53,4 @@ elif [ $month_number -eq 12 ]
 then
   echo December
 fi
+pwd
